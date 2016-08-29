@@ -1,0 +1,16 @@
+# Android generated folders
+gen/
+checkstyle-result.xml
+local.properties
+bin/
+.project
+.classpath
+.idea
+out
+*.apk
+build.xml.bak
+.DS_Store
+*.iml
+*.ipr
+*.iws
+target
